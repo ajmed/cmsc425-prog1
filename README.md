@@ -1,8 +1,5 @@
-# cmsc425-prog1
-UMD CMSC425: Programming Assignment 1
-
 # Alexander Medeiros
-# Programming Assignment 1, Part 1
+# UMD CMSC425: Programming Assignment 1, Part 1
 
 ## Implementation
 
