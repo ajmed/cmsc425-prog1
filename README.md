@@ -1,10 +1,10 @@
 # Alexander Medeiros
-# UMD CMSC425: Programming Assignment 1, Part 1
+# UMD CMSC425: Programming Assignment 1, Part 2
 
 ## Implementation
 
 * Use the arrow keys or "WASD" to tilt the board
-* Maneuver the ball into the bright orange circle to win!
+* Collect 2 of the pick up items to unlock the winner's circle!
 * Hit 'Q' to quit
 * Hit 'R' to restart
 * The board can tilt a maximum of 20°
