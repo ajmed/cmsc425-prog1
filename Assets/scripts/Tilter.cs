@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Tilter : MonoBehaviour {
 
-	public float tiltAngle = 15.0f;
-	public float smooth = 2.0f;
+	private float tiltAngle = 20.0f;
+	private float smooth = 3.0f;
 
 	// Update is called once per frame
 	void Update () {

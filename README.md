@@ -7,7 +7,7 @@
 * Maneuver the ball into the bright orange circle to win!
 * Hit 'Q' to quit
 * Hit 'R' to restart
-* The board can tilt a maximum of 30°
+* The board can tilt a maximum of 20°
 
 ## Additional implementation details
 
@@ -16,7 +16,7 @@
 	
 ## Known issues
 
-* When moving to a corner and then tilting hard in the opposite direction, the ball will sort of dip into the floor. I think the motion updates faster than the collision and the ball will sink before realizing it was collided with.
+* When moving to a corner and then tilting hard in the opposite direction, the ball will fall through the floor. I think the motion updates faster than the collision and the ball will sink before realizing it was collided with.
 * When loading up Unity, make sure to give it time to load the wooden planks (texture for board). They were loading very slowly on start-up for me.
 
 ## External resources
